@@ -1,0 +1,16 @@
+body {
+  color: orange;
+  font-family: 'Limelight', monospace;
+  margin: 10px 50px 10px 50px;
+}
+
+h1, h2 {
+  font-family: 'Kavoon', monospace;
+}
+
+.profile {
+  position: absolute;
+  width: 200px;
+}
+
+
